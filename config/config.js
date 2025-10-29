@@ -26,7 +26,7 @@ require("dotenv").config();
   };
 
   module.exports = {
-    deelopment,
+    development,
     test,
     production
   };
